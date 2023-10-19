@@ -1,1 +1,1 @@
-# Stephanie_thesis_similation
+# Stephanie_thesis_simulation
